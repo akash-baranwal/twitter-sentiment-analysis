@@ -39,10 +39,10 @@
     "from tqdm._tqdm_notebook import tqdm_notebook\n",
     "tqdm_notebook.pandas()\n",
     "import nltk\n",
-    "consumer_key ='KU70CKWxP7O9DqiaiwIlIa8b0'\n",
-    "consumer_secret ='v0cJd2kmmRQT59tpSHLezTxBRdoUXIX8eJcf14iUUGIh7xT55P'\n",
-    "access_key ='1110893665638141952-zJ3JIA7Ut4y2zlEzLyDadjDzmI7SJH'\n",
-    "access_secret ='fGa57hTJ7ST2PoMsM4w2VqJ2KavEpCTbbllbpKXK9ktOp'\n"
+    "consumer_key ='your consumer key'\n",
+    "consumer_secret ='your consumer secret'\n",
+    "access_key ='your access key'\n",
+    "access_secret ='your access secret'\n"
    ]
   },
   {
